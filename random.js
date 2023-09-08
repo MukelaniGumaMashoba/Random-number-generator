@@ -6,7 +6,7 @@ function getRandomNumber(min, max) {
 // Function to handle the button click event
 function generateRandomNumber() {
     const min = 1; // Minimum number
-    const max = 100; // Maximum number
+    const max = 100; // Max number
     const randomNumber = getRandomNumber(min, max);
 
     // Display the random number on the HTML page
